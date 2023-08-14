@@ -1,0 +1,1 @@
+to use anki for my own English learning.

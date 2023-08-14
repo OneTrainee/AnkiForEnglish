@@ -1,0 +1,12 @@
+I {{c1::took a shortcut}} through the university campus.<hr>我抄近路穿过大学校园。
+{{c2::Take a shortcut}} for the next task or play normally.<hr>走下一个任务的捷径或正常玩。
+You never {{c3::taken a shortcut}} before?<hr>你以前从来没有走过捷径吗？
+At some point , the teen decided to {{c4::take a shortcut}} .<hr>在某个时刻，这位青少年决定走一条捷径。
+NOTE: You can {{c5::take a shortcut}} here if you like.<hr>注意：如果您愿意，可以在此处走捷径。
+And you should never {{c6::take a shortcut}} by pouring it down the drain!<hr>而且你绝对不应该走捷径，把它倒进下水道！
+So the Upanishad takes a shortcut .<hr>所以奥义书走了一条捷径。
+I imagined that we were {{c7::taking a shortcut}} and did as I was told.<hr>我以为我们是在走捷径，于是就照我说的做了。
+While {{c8::taking a shortcut}} through a canyon, the group is attacked by Apaches.<hr>当他们抄近路穿过峡谷时，遭到阿帕奇的袭击。
+He was {{c9::taking a shortcut}} .<hr>他正在走捷径。
+Did the builder {{c10::take a shortcut}} and not use enough steel in the foundation?<hr>建筑商是否走了捷径，没有在地基中使用足够的钢材？
+So we {{c11::took a shortcut}} .<hr>于是我们走了一条捷径。
